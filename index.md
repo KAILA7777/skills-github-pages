@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog :3 !
+title: YOUR-TITLE
 date: 2026-06-18
 ---
